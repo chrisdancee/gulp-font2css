@@ -99,7 +99,7 @@ function font2css() {
 
       const attributes = [
         getFontFamily(basename),
-        'font-display: auto',
+        'font-display:auto;',
         guessFontStyle(basename),
         guessFontWeight(basename),
         getSrc(file)
