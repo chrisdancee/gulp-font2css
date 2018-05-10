@@ -1,5 +1,5 @@
 {
-  "name": "gulp-font2css",
+  "name": "gulp-font2css-display",
   "version": "0.2.0",
   "description": "Encode font files as CSS using Gulp.",
   "repository": "chrisdancee/gulp-font2css",
